@@ -1,0 +1,28 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Scenario A,Chrome 70.0.3538.110,,2018-12-15 00:08:38,2018-12-15 00:09:22,43.607s,FAILED
+,,,,,,
+Test Cases/Automation Script,Chrome 70.0.3538.110,UI test,2018-12-15 00:08:39,2018-12-15 00:09:19,40.696s,FAILED
+"openBrowser("""")",Chrome 70.0.3538.110,,2018-12-15 00:08:40,2018-12-15 00:08:45,5.256s,PASSED
+"navigateToUrl(""https://kumparan.com/"")",Chrome 70.0.3538.110,,2018-12-15 00:08:45,2018-12-15 00:09:03,17.939s,PASSED
+"click(findTestObject(""Object Repository/Page_Platform Media Berita Kolabora/button_YA""))",Chrome 70.0.3538.110,,2018-12-15 00:09:03,2018-12-15 00:09:03,0.424s,PASSED
+"click(findTestObject(""Object Repository/Page_Platform Media Berita Kolabora/span_Masuk dengan Facebook""))",Chrome 70.0.3538.110,,2018-12-15 00:09:03,2018-12-15 00:09:04,0.470s,PASSED
+"switchToWindowTitle(""Facebook"")",Chrome 70.0.3538.110,,2018-12-15 00:09:04,2018-12-15 00:09:06,1.782s,PASSED
+"setText(findTestObject(""Object Repository/Page_Facebook/input_Email address or phone n""), ""irsandyr@yahoo.co.id"")",Chrome 70.0.3538.110,,2018-12-15 00:09:06,2018-12-15 00:09:07,1.366s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Facebook/input_Password_pass""), ""eWY+UnTjCoY="")",Chrome 70.0.3538.110,,2018-12-15 00:09:07,2018-12-15 00:09:07,0.346s,PASSED
+"click(findTestObject(""Object Repository/Page_Facebook/input_Password_login""))",Chrome 70.0.3538.110,,2018-12-15 00:09:07,2018-12-15 00:09:09,1.208s,PASSED
+"switchToWindowTitle(""Platform Media Berita Kolaboratif, Terkini Indonesia Hari Ini - Kumparan.com"")",Chrome 70.0.3538.110,,2018-12-15 00:09:09,2018-12-15 00:09:09,0.347s,PASSED
+"click(findTestObject(""Object Repository/Page_Platform Media Berita Kolabora/span_Trending""))",Chrome 70.0.3538.110,,2018-12-15 00:09:09,2018-12-15 00:09:09,0.329s,PASSED
+"click(findTestObject(""Object Repository/Page_Kumparan/span_Cerita""))",Chrome 70.0.3538.110,,2018-12-15 00:09:09,2018-12-15 00:09:11,1.503s,PASSED
+"click(findTestObject(""Object Repository/Page_Kumparan/span_Topik""))",Chrome 70.0.3538.110,,2018-12-15 00:09:11,2018-12-15 00:09:11,0.345s,PASSED
+"click(findTestObject(""Object Repository/Page_Kumparan/span_Profil""))",Chrome 70.0.3538.110,,2018-12-15 00:09:11,2018-12-15 00:09:12,0.888s,PASSED
+"click(findTestObject(""Object Repository/Page_Kumparan/span_Video""))",Chrome 70.0.3538.110,,2018-12-15 00:09:12,2018-12-15 00:09:12,0.309s,PASSED
+"click(findTestObject(""Object Repository/Page_kumparan Video - kumparan/span_Liputan Khusus""))",Chrome 70.0.3538.110,,2018-12-15 00:09:12,2018-12-15 00:09:13,0.425s,PASSED
+"click(findTestObject(""Object Repository/Page_kumparan Video - kumparan/span_Konten Spesial""))",Chrome 70.0.3538.110,,2018-12-15 00:09:13,2018-12-15 00:09:13,0.395s,PASSED
+"click(findTestObject(""Object Repository/Page_kumparan Video - kumparan/span_Galeri Foto""))",Chrome 70.0.3538.110,,2018-12-15 00:09:13,2018-12-15 00:09:14,0.728s,PASSED
+"click(findTestObject(""Object Repository/Page_kumparan Video - kumparan/img""))",Chrome 70.0.3538.110,,2018-12-15 00:09:14,2018-12-15 00:09:14,0.289s,PASSED
+"click(findTestObject(""Object Repository/Page_kumparan Video - kumparan/img""))",Chrome 70.0.3538.110,,2018-12-15 00:09:14,2018-12-15 00:09:14,0.169s,PASSED
+"click(findTestObject(""Object Repository/Page_kumparan Video - kumparan/img_pns_NavbarMobileweb__Custo""))",Chrome 70.0.3538.110,,2018-12-15 00:09:14,2018-12-15 00:09:16,1.545s,PASSED
+"click(findTestObject(""Object Repository/Page_Platform Media Berita Kolabora/span_Home""))",Chrome 70.0.3538.110,,2018-12-15 00:09:16,2018-12-15 00:09:17,0.791s,PASSED
+"click(findTestObject(""Object Repository/Page_Platform Media Berita Kolabora/span_Trending""))",Chrome 70.0.3538.110,,2018-12-15 00:09:17,2018-12-15 00:09:17,0.380s,PASSED
+"click(findTestObject(""Object Repository/Page_Kumparan/img_pns_NavbarMobileweb__Custo""))",Chrome 70.0.3538.110,,2018-12-15 00:09:17,2018-12-15 00:09:18,1.239s,PASSED
+"click(findTestObject(""Object Repository/Page_Platform Media Berita Kolabora/img""))",Chrome 70.0.3538.110,,2018-12-15 00:09:18,2018-12-15 00:09:19,1.017s,FAILED
